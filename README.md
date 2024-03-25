@@ -1,6 +1,9 @@
 # customize-miru
 Customize the [Miru](https://github.com/ThaUnknown/miru) anime torrent streaming app
 
+# NOTE / WARNING
+the app may not auto update anymore and you would have to reinstall Miru which will rollback changes!
+
 # Windows
 1. have the app installed on you device
 2. cd into Miru directory
