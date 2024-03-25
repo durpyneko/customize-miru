@@ -12,7 +12,7 @@ cd ~/AppData/Local/Programs/Miru/resources
 npx @electron/asar extract app.asar .\unpacked
 ```
 4. make your changes
-5. rebuild
+5. repack
 ```ps
 npx @electron/asar pack .\unpacked\ app.asar
 ```
